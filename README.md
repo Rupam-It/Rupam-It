@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupam-it&label=Profile%20views&color=0e75b6&style=flat" alt="rupam-it" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupam-it" alt="rupam-it" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rupam-manna-320557250/](https://www.linkedin.com/in/rupam-manna-320557250/)
 
 - 📝 I regularly write articles on [https://mannadada.blogspot.com/](https://mannadada.blogspot.com/)
