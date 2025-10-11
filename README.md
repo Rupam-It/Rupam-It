@@ -6,4 +6,6 @@
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/rupam-manna-320557250/</h3>
 
-
+<p align="left">
+🎙️ I was a guest on this podcast — <a href="https://youtu.be/PddNbhnFAAI?si=-_toK46fvKbSSnaV">wanted to hear more about me? Click here!</a>
+</p>
