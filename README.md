@@ -9,3 +9,6 @@
 <p align="left">
 🎙️ I was a guest on this podcast — <a href="https://youtu.be/PddNbhnFAAI?si=-_toK46fvKbSSnaV">wanted to hear more about me? Click here!</a>
 </p>
+<p align="left">
+🎙️ read my Blog at  — <a href="https://kubeknow.hashnode.dev/">kubeknow</a>
+</p>
