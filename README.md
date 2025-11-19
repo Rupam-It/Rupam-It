@@ -13,6 +13,6 @@
 🎙️ read my Blog at  — <a href="https://kubeknow.hashnode.dev/">kubeknow</a>
 </p>
 <p align="left">
-🎙️ All of my Blogs and youtbe videos  — <a href="[https://kubeknow.hashnode.dev/](https://github.com/Rupam-It/MY_BLOGS)">kubeknow</a>
+🎙️ All of my Blogs and youtbe videos  — <a href="https://github.com/Rupam-It/MY_BLOGS">kubeknow</a>
 </p>
 
