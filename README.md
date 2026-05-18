@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rupam Manna</h1>
-<h3 align="center">Highly motivated full-stack and DevOps developer, proficient in Go, Python, JavaScript, and React. Skilled in building scalable applications and experienced in working with Docker, Kubernetes, and CI/CD pipelines.
-</h3>
+<p align="center">
+  🎓 <strong>GSoC '26 Contributor</strong> at <a href="https://criu.org">CRIU</a>
+  &nbsp;·&nbsp;
+  🤝 <strong>LFX '25 Mentee & Mentor</strong> at <a href="https://github.com/kubestellar">CNCF KubeStellar</a>r
+  &nbsp;·&nbsp;
+  🔧 <strong>Ex-Maintainer</strong> of <a href="https://github.com/kubestellar/kubectl-multi-plugin">kubectl-multi-plugin</a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupam-it&label=Profile%20views&color=0e75b6&style=flat" alt="rupam-it" /> </p>
 
