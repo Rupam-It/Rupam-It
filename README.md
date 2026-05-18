@@ -2,7 +2,7 @@
 <p align="center">
   🎓 <strong>GSoC '26 Contributor</strong> at <a href="https://criu.org">CRIU</a>
   &nbsp;·&nbsp;
-  🤝 <strong>LFX '25 Mentee & Mentor</strong> at <a href="https://github.com/kubestellar">CNCF KubeStellar</a>r
+  🤝 <strong>LFX '25 Mentee & Mentor</strong> at <a href="https://github.com/kubestellar">CNCF KubeStellar</a>
   &nbsp;·&nbsp;
   🔧 <strong>Ex-Maintainer</strong> of <a href="https://github.com/kubestellar/kubectl-multi-plugin">kubectl-multi-plugin</a>
 </p>
